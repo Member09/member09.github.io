@@ -14,19 +14,19 @@ This portfolio showcases my deep learning projects and reproducible research.
 
 ### 🔹 [LLM Finetuning on Custom Data](https://github.com/member09/LLM-finetuning-on-custom-data)
 Finetunes a Hugging Face transformer on a small domain dataset using LoRA.  
-💡 Shows: Transfer learning, model adaptation, Hugging Face `transformers`.
+💡 Insights: Transfer learning, model adaptation, Hugging Face `transformers`.
 
 ---
 
 ### 🔹 [Scaling Laws Reproduction](https://github.com/member09/scaling-laws-reproduction)
 Reproduces Kaplan and Chinchilla’s loss vs compute scaling laws using synthetic data.  
-💡 Shows: Empirical curve fitting, plotting, scaling analysis.
+💡 Insights: Empirical curve fitting, plotting, scaling analysis.
 
 ---
 
 ### 🔹 [Tiny Transformer from Scratch](https://github.com/member09/tiny-transformer-from-scratch)
 Builds a minimal GPT-style Transformer in PyTorch with custom training loop.  
-💡 Shows: Architecture understanding, tokenization, training dynamics.
+💡 Insights: Architecture understanding, tokenization, training dynamics.
 
 ---
 
