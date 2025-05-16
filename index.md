@@ -1,7 +1,6 @@
 
 ---
-layout: default
-title: AI/ML Portfolio - Nidhi Singh
+
 ---
 
 # 👋 Hello, I'm Nidhi Singh
