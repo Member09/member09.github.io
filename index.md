@@ -39,8 +39,8 @@ Builds a minimal GPT-style Transformer in PyTorch with custom training loop.
 
 ## 📫 Contact
 
-- GitHub: [@your-username](https://github.com/member09)
-- Medium: [@your-medium](https://medium.com/@nids.workspace.09)
+- GitHub: [@nidhi](https://github.com/member09)
+- Medium: [@nids.workspace.09](https://medium.com/@nids.workspace.09)
 - Email: nidhi.network.09@gmail.com
 
 ---
