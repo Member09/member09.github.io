@@ -6,32 +6,43 @@
 # 🙏 Hello, I'm Nidhi
 
 I'm a machine learning enthusiast focused on **NLP, LLMs, and AGI research**.  
-This portfolio showcases my deep learning projects and reproducible research.
+This portfolio showcases my deep learning projects and reproducible research. My work revolves around:
+
+- 🔬 Exploring and reproducing **scaling laws** in deep learning
+- 🧠 Building transformer architectures from scratch
+- ⚙️ Fine-tuning LLMs for domain-specific applications
+- 📈 Conducting empirical research to understand model behaviors
 
 ---
 
 ## 🧠 Featured Projects
 
+### 🔹 [LLM Journey](https://github.com/member09/llm_journey)  
+A curated journey through large language model papers and experiments — combining paper reading, conceptual reflections, and reproducible notebooks.
+
+
 ### 🔹 [LLM Finetuning on Custom Data](https://github.com/member09/LLM-finetuning-on-custom-data)
-Finetunes a Hugging Face transformer on a small domain dataset using LoRA.  
+Fine-tuned transformer models on domain-specific datasets using techniques like LoRA, demonstrating practical skills in model adaptation.  
 💡 Insights: Transfer learning, model adaptation, Hugging Face `transformers`.
 
 ---
 
 ### 🔹 [Scaling Laws Reproduction](https://github.com/member09/scaling-laws-reproduction)
-Reproduces Kaplan and Chinchilla’s loss vs compute scaling laws using synthetic data.  
+Reproduced key findings from seminal papers like Kaplan and Chinchilla, analyzing loss vs. compute trade-offs with synthetic datasets.
 💡 Insights: Empirical curve fitting, plotting, scaling analysis.
 
 ---
 
 ### 🔹 [Tiny Transformer from Scratch](https://github.com/member09/tiny-transformer-from-scratch)
-Builds a minimal GPT-style Transformer in PyTorch with custom training loop.  
+Implemented a GPT-style transformer model using PyTorch, showcasing a deep understanding of attention mechanisms and training dynamics.  
 💡 Insights: Architecture understanding, tokenization, training dynamics.
+
 
 ---
 
 ## 📘 Blog & Notes
-
+- [From Embeddings to Context: Inside the Transformer Encoder](https://medium.com/@nids.workspace.09/from-embeddings-to-context-inside-the-transformer-encoder-5e5eb2985ccd)
+- [Embeddings in Transformer architecture](https://medium.com/@nids.workspace.09/embeddings-in-transformer-architecture-45de8f39776f)
 - [What I Learned from Chinchilla](https://medium.com/chinchilla-article)
 - [How Scaling Laws Work (Notebook)](https://github.com/member09/scaling-laws-reproduction)
 
