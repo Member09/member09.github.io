@@ -3,7 +3,7 @@
 📘 AI/ML Engineer | NLP & LLMs | Scaling Laws Enthusiast
 ---
 
-# 🙏 Hello, I'm Nidhi Singh
+# 🙏 Hello, I'm Nidhi
 
 I'm a machine learning enthusiast focused on **NLP, LLMs, and AGI research**.  
 This portfolio showcases my deep learning projects and reproducible research.
