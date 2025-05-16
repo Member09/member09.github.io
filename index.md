@@ -3,7 +3,7 @@
 
 ---
 
-# 👋 Hello, I'm Nidhi Singh
+# 🙏 Hello, I'm Nidhi Singh
 
 I'm a machine learning enthusiast focused on **NLP, LLMs, and AGI research**.  
 This portfolio showcases my deep learning projects and reproducible research.
@@ -32,7 +32,7 @@ Builds a minimal GPT-style Transformer in PyTorch with custom training loop.
 
 ## 📘 Blog & Notes
 
-- [What I Learned from Chinchilla](https://medium.com/your-chinchilla-article)
+- [What I Learned from Chinchilla](https://medium.com/chinchilla-article)
 - [How Scaling Laws Work (Notebook)](https://github.com/member09/scaling-laws-reproduction)
 
 ---
