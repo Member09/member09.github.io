@@ -1,6 +1,6 @@
 
 ---
-
+📘 AI/ML Engineer | NLP & LLMs | Scaling Laws Enthusiast
 ---
 
 # 🙏 Hello, I'm Nidhi Singh
