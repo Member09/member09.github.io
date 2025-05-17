@@ -17,14 +17,16 @@ This portfolio showcases my deep learning projects and reproducible research. My
 
 ## 🧠 Featured Projects
 
-### 🔹 [LLM Journey](https://github.com/member09/llm_journey)  
+### 🔹 [LLM Journey](https://github.com/member09/llm_journey)
 A curated journey through large language model papers and experiments — combining paper reading, conceptual reflections, and reproducible notebooks.
+
 ---
 
 ### 🔹 [DeepLearning_Projects](https://github.com/member09/DeepLearning_Projects)  
-This repository showcases a collection of hands-on deep learning projects I've worked on, covering key areas such as image classification (CNNs). The projects reflect my understanding of foundational architectures (like Feedforward, CNN, RNN, and Transformers) and includes PyTorch implementations, experiments, and model evaluations.
----
+ This repository showcases a collection of hands-on deep learning projects I've worked on, covering key areas such as image classification (CNNs). The projects reflect my understanding of foundational architectures (like Feedforward, CNN, RNN, and Transformers) and includes PyTorch implementations, experiments, and model evaluations.
 
+---
+ 
 ### 🔹 [LLM Finetuning on Custom Data](https://github.com/member09/LLM-finetuning-on-custom-data)
 Fine-tuned transformer models on domain-specific datasets using techniques like LoRA, demonstrating practical skills in model adaptation.  
 💡 Insights: Transfer learning, model adaptation, Hugging Face `transformers`.
