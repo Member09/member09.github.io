@@ -30,9 +30,9 @@ A curated journey through large language model papers and experiments — combin
 ### 🔹 [LLM Finetuning on Custom Data](https://github.com/member09/LLM-finetuning-on-custom-data)
 Fine-tuned transformer models on domain-specific datasets using techniques like LoRA, demonstrating practical skills in model adaptation.  
 💡 Insights: Transfer learning, model adaptation, Hugging Face `transformers`.
--->
----
 
+---
+-->
 ### 🔹 [Scaling Laws Reproduction](https://github.com/member09/scaling-laws-reproduction)
 Reproduced key findings from seminal papers like Kaplan and Chinchilla, analyzing loss vs. compute trade-offs with synthetic datasets.
 💡 Insights: Empirical curve fitting, plotting, scaling analysis.
@@ -42,9 +42,9 @@ Reproduced key findings from seminal papers like Kaplan and Chinchilla, analyzin
 ### 🔹 [Tiny Transformer from Scratch](https://github.com/member09/tiny-transformer-from-scratch)
 Implemented a GPT-style transformer model using PyTorch, showcasing a deep understanding of attention mechanisms and training dynamics.  
 💡 Insights: Architecture understanding, tokenization, training dynamics.
--->
----
 
+---
+-->
 ### 🔹 [MachineLearning Business Projects](https://github.com/member09/BusinessProjects)  
 This repository contains real-world, business-focused machine learning projects that demonstrate my ability to solve practical problems using data-driven approaches. These projects highlight my experience in applying ML to deliver measurable business value—such as increasing revenue and improving product targeting—using tools like scikit-learn, pandas, SQL.
 
