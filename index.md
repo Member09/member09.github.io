@@ -43,6 +43,10 @@ Reproduced key findings from seminal papers like Kaplan and Chinchilla, analyzin
 Implemented a GPT-style transformer model using PyTorch, showcasing a deep understanding of attention mechanisms and training dynamics.  
 💡 Insights: Architecture understanding, tokenization, training dynamics.
 
+---
+
+### 🔹 [MachineLearning Business Projects](https://github.com/member09/BusinessProjects)  
+This repository contains real-world, business-focused machine learning projects that demonstrate my ability to solve practical problems using data-driven approaches. These projects highlight my experience in applying ML to deliver measurable business value—such as increasing revenue and improving product targeting—using tools like scikit-learn, pandas, SQL.
 
 ---
 
