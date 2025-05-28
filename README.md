@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Member09
+### 👋 Hi, I'm Nidhi
 
 ![Visitors](https://komarev.com/ghpvc/?username=Member09)
 ![Followers](https://img.shields.io/github/followers/Member09?label=Follow&style=social)
